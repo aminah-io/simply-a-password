@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Simply A Password
 //
-//  Created by Aminah Jamil on 6/23/20.
-//  Copyright © 2020 Aminah Jamil. All rights reserved.
+//  Created by Aminah Burch on 6/23/20.
+//  Copyright © 2020 Aminah Burch. All rights reserved.
 //
 
 import UIKit
